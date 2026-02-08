@@ -1,0 +1,81 @@
+
+EDUCATION
+Eton College | England, United Kingdom September 2022 - Present
+? A-Level: Maths, Further Maths, Computer Science, and Economics, predicted 4 A*; 11 GCSE A*
+? SAT: 1560 - 800 Maths, 760 English
+HONOURS AND AWARDS
+? Merit, Maclaurin Maths Olympiad, National, Top 250 (April 2025)
+? Gold in Senior Maths Challenge, National, Top 8% out of 121,000+ (October 2025)
+? Distinction, Best in School, Perse Coding Team Challenge, International, 81st/5650 in Round 1 (May 2025)
+? 1st place in Computer Science in Internal Exams (December 2024, December 2025)
+? Distinction, Top 40 boys in Internal Exams (December 2023, June and December 2024, December 2025)
+? Academic Scholarship for 3 consecutive Distinctions in Internal Exams (January 2025)
+
+RESEARCH AND WORK EXPERIENCE
+Author, Published Research on Understanding Financial Inclusion: Patterns and Determinants of Formal Borrowing | October 2025 - Present |
+? Authored and submitted a quantitative research paper to the International Journal of High School Research (IJHSR) analyzing income, class, and structural inequalities in formal borrowing.
+? Analyzed nationally representative AIDIS 2019 household data using OLS and binary Logit models with state and district fixed effects, integrating econometric and machine-learning techniques.
+? Estimated marginal effects showing a ~1% increase in formal borrowing probability per ?1,000 rise in MPCE, with household size exerting a negative effect.
+? Modeled loan purpose and urgency to capture heterogeneity in borrowing behavior, revealing persistent caste- and religion-based disparities after controlling for income and geography.
+Co-Author, Published Research on The Effect of Linguistic Techniques on Viewership | August - September 2025 |
+? Analyzed audience engagement data using KNN and PCA to identify linguistic patterns influencing viewership; co-authored a research paper published in Curieux Review.
+Insight Program Participant, Deutsche Bank, England, United Kingdom, | January 2026 |
+? Selected for a competitive Deutsche Bank trading floor insight program (~13% acceptance), gaining exposure to market microstructure, risk management, and quantitative decision-making through direct interaction with traders and analysts.
+Research Intern, MERAKI LABS, England, United Kingdom, | February 2025 - Present |
+? Contributed to the design of a year-long humanitarian consulting program supporting displaced and refugee students across multiple regions.
+? Developed an automated NLP-based text tagging system to structure unlabelled qualitative data for humanitarian research and policy analysis use cases. Applied NLP outputs to real research workflows, improving data organization and insight generation for program design and evaluation.
+? Authored a data-backed concept note securing $150K+ in funding for refugee-led economic development initiatives, integrating evidence from field and secondary data.
+AI/ML Intern, JANA SMALL FINANCE BANK, Bangalore, India | July 2025 - Present |
+? Built a natural language-to-SQL system enabling non-technical teams to query loan databases and generate instant insights from structured data.
+? Integrated MySQL with retrieval-augmented inference to automate data retrieval, querying, and analytical workflows
+for credit teams.
+? Developed and contributed features to a housing loan propensity and default risk model, collaborating with senior banking stakeholders on model design and validation.
+
+LEADERSHIP EXPERIENCE
+Founder & Lead Instructor of EC3, Eton College, England, United Kingdom | October 2025 - Present |
+? Founded and scaled Eton College's computer science club, engaging 70+ students through structured challenges, competitions, and collaborative projects, and delivering weekly instruction in applied ML, algorithms, and computational problem-solving.
+? Led curriculum development and peer mentoring to build a high-impact technical community, and currently organising a
+
+student hackathon on digital teaching and learning in partnership with Lovable.
+Founder & Developer, The Morning Report,| October 2025 - Present |
+? Designed, developed, and deployed a personalized financial news app, leveraging user preferences and content filtering to deliver daily briefings; published on the App Store.
+? Implemented data pipelines and algorithms for customized news recommendations, integrating APIs and real-time market data to optimize relevance and timeliness.
+? Led end-to-end product development, including UI/UX design, backend architecture, and deployment, managing all aspects of a full-stack data-driven project.
+Head of Dry Lab, IGEM, Eton College, England, United Kingdom | October 2025 - Present |
+? Lead the computational biology team in an international synthetic biology competition, managing all in silico modeling and analysis efforts.
+? Designed and executed data-driven modeling strategies, including simulations, statistical analysis, and integration with wet lab experiments to guide experimental design.
+? Coordinate team workflows, ensuring computational outputs informed biological experimentation and supported competitive project milestones.
+Head of Computer Science, STEM Committee, Eton College, England, United Kingdom | January 2026 - Present |
+? Lead the organization and execution of computer science events and competitions, including a National STEM Summit (September) focused on student research, engaging students across STEM disciplines to promote computational thinking.
+? Develop event frameworks that integrate algorithmic problem-solving, data analysis, and coding challenges.
+? Mentor peers and coordinate with the STEM leadership committee to drive participation, collaboration, and innovation.
+Secretary, Computer Science Society, Eton College, England, United Kingdom | January 2026 - Present |
+? Manage speaker events and student engagement initiatives, hosting industry speakers such as XTX Markets, to foster technical discussions and collaboration.
+? Coordinate logistics, promotion, and participation for workshops and talks, enhancing hands-on learning in computer science and applied technology.
+Representative, IT & Digital Education, Eton College, England, United Kingdom | January 2025 - Present |
+? Administer access to a £5M campus Wi-Fi system, ensuring reliable digital infrastructure for students and staff.
+? Develop and implement a digital literacy syllabus to enhance computational skills and promote technology adoption.
+Research Analyst, Investment Club, Eton College, England, United Kingdom | January 2025 - Present |
+? Lead outreach and coordination for an interschool financial literacy competition with 250+ teams across 11 schools.
+? Conduct research and analysis to support competition content, enhancing financial education and data-driven decision-making for participants.
+Writer & Editor, Etonomics, Eton College, England, United Kingdom | January 2025 - Present |
+? Write and edit articles for the largest student-run economics publication, reaching 10,000 annual readers worldwide.
+? Oversee editorial review and content strategy, ensuring high-quality, data-informed economic reporting and analysis.
+
+EXTRACURRICULAR ACTIVITIES
+AI Engineer, Uni Customs
+? Fine-tuned language models for customs code classification, improving the accuracy and efficiency of document processing.
+Lead Computer Science Editor and Technical Director, EtonSTEM
+? Head of Computer Science at Eton's STEM magazine, editing articles from writers, ensuring quality and advising writing.
+Taekwondo 2nd Dan Black Belt & Instructor
+? Trained and mentored 100+ students, combining technical skill development with leadership and coaching.
+Squash, First Team, National level
+? Playing 30+ matches/year and achieving 3rd place in the National Plate, demonstrating teamwork and competitive drive.
+Lance Corporal & Section Commander, Combined Cadet Force
+? Led a team in tactical exercises; certified in weapons handling and first aid, emphasizing discipline and responsibility.
+
+
+SKILLS
+Programming: Python, SQL, C, C++, JavaScript, R, Rust, Lean | Data and Machine Learning: Pandas, NumPy, Machine Learning, Deep Learning, Econometrics | Systems and Deployment: Flask, AWS, Firebase, Swift, SwiftUI, MCP
+
+
