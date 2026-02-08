@@ -29,7 +29,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
   return (
     <html lang="en" className={`${sans.variable} ${mono.variable}`}>
       <body className="font-sans antialiased">
-        <div className="mx-auto flex min-h-screen w-full max-w-frame flex-col px-6 py-8 md:px-10 md:py-10">
+        <div className="mx-auto flex min-h-screen w-full max-w-screen-2xl flex-col px-6 py-8 md:px-10 md:py-10">
           <header className="mb-20 flex items-center justify-between border-b border-border pb-5">
             <Link
               href="/"

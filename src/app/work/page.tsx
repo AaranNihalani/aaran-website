@@ -9,22 +9,30 @@ export const metadata: Metadata = {
 export default function WorkPage() {
   return (
     <PageShell>
-      <section className="space-y-8">
-        <div className="grid grid-cols-[1.5fr_1fr_1fr] border-b border-border pb-2 font-mono text-[10px] uppercase tracking-[0.14em] text-muted">
-          <div>Artifact</div>
-          <div>Methods</div>
-          <div>Problem Addressed</div>
-        </div>
-
-        <ul className="space-y-0">
+      <section className="space-y-12">
+        <h1 className="font-mono text-xl uppercase tracking-wider text-muted">Work & Research</h1>
+        <ul className="space-y-12">
           {work.map((item) => (
             <li
               key={item.title}
-              className="grid grid-cols-1 gap-2 border-b border-border py-4 transition-colors duration-ui ease-ui hover:bg-panel/45 md:grid-cols-[1.5fr_1fr_1fr] md:gap-6"
+              className="flex flex-col gap-3 transition-colors duration-ui ease-ui"
             >
-              <p className="font-mono text-[13px] leading-[1.45] text-fg">{item.title}</p>
-              <p className="text-[12px] leading-[1.45] text-muted">{item.methods}</p>
-              <p className="text-[12px] leading-[1.45] text-muted">{item.problem}</p>
+              <div className="flex flex-col gap-1">
+                <div className="flex flex-col justify-between gap-1 md:flex-row md:items-baseline">
+                  <h3 className="text-xl font-medium text-fg">{item.title}</h3>
+                  <span className="font-mono text-xs text-muted">{item.date}</span>
+                </div>
+                <div className="flex flex-col justify-between gap-1 md:flex-row md:items-baseline">
+                  <span className="font-mono text-sm text-accent">{item.role}</span>
+                  {item.location && <span className="font-mono text-xs text-muted">{item.location}</span>}
+                </div>
+              </div>
+              
+              <ul className="list-inside list-disc space-y-2 text-[15px] leading-relaxed text-muted">
+                {item.description.map((desc, i) => (
+                  <li key={i} className="pl-2 -indent-2">{desc}</li>
+                ))}
+              </ul>
             </li>
           ))}
         </ul>
