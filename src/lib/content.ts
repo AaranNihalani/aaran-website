@@ -1,7 +1,7 @@
 export const site = {
   name: "Aaran Nihalani",
   descriptor: "Student · Computer Science",
-  email: "aarannihalani@gmail.com",
+  email: "aaran.nihalani@gmail.com",
   github: "https://github.com/AaranNihalani",
   nav: [
     { href: "/about", label: "about" },
