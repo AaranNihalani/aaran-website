@@ -223,7 +223,7 @@ export const courseGroups = [
   {
     title: "A-Levels",
     institution: "Eton College",
-    period: "2023 - Present",
+    period: "2025 - Present",
     items: [
       { name: "Mathematics", grade: "Predicted A*" },
       { name: "Further Mathematics", grade: "Predicted A*" },
@@ -234,7 +234,7 @@ export const courseGroups = [
   {
     title: "GCSEs",
     institution: "Eton College",
-    period: "2021 - 2023",
+    period: "2023 - 2025",
     items: [
        { name: "Mathematics", grade: "A* (199/200)" },
        { name: "History", grade: "A* (117/120)" },
@@ -254,8 +254,8 @@ export const courseGroups = [
     institution: "Harvard University",
     period: "Summer 2025",
     items: [
-       { name: "Deductive Logic", grade: "A (4 Credits)" },
-       { name: "Introduction to Web Programming Using JavaScript", grade: "A (4 Credits)" },
+       { name: "Deductive Logic", grade: "A (4 Credits) - 100%" },
+       { name: "Introduction to Web Programming Using JavaScript", grade: "A (4 Credits) - 100%" },
     ]
   },
   {
