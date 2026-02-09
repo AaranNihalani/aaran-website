@@ -116,8 +116,9 @@ export const about = {
       organization: "Eton College",
       date: "January 2025 - Present",
       description: [
-        "Lead outreach and coordination for an interschool financial literacy competition with 250+ teams.",
-        "Conduct research and analysis to support competition content.",
+        "Lead outreach and coordination for an interschool investment competition with 200+ participants.",
+        "Conduct research and analysis for stock reports.",
+        "Built club website to improve outreach and accessibility",
       ],
     },
     {
